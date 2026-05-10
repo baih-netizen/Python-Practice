@@ -11,4 +11,11 @@
 # Try to create a more complicated ASCII picture
 
 print("<(°o°)>") 
+print(                       ) 
+print(                       ) 
+print(                       ) 
+print(                       ) 
+print(                       ) 
+print(                       ) 
+print(                       ) 
 input ("What's your name?")
