@@ -1,1 +1,7 @@
 print("hello")
+print(5 == 5.0)
+print('hello' != 'hi')
+print('hello' == 'hi')
+print(5 == '5')
+print(5 + 5 >= 10)
+print(5 + 5 >= 8)
