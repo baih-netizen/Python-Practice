@@ -22,7 +22,7 @@ elif earth == "NO":
 else:
     print("Please answer YES or NO.")
 
-print("----- Summary -----")
+print("---------- <I> ----------")
 print("You are in Grade " + grade + ".")
 print("Your age is " + age + ".")
 print("Your favourite animal is " + animal + ".")
