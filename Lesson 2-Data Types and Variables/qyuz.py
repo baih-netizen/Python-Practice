@@ -88,7 +88,7 @@ else:
     print("|Incorrect. Water is usually a liquid at room temperature.    |")
 
 print("----------------------------- <V> -----------------------------")
-# Display the user's information and final score
+# Display information and score
 print("You are in Grade " + year + ".")
 print("Your age is " + age + ".")
 print("Your favourite animal is " + animal + ".")
