@@ -11,8 +11,14 @@ while year != "10" and year != "11" and year != "12":
 print("You are in Year " + year + ".")
 
 # Ask for their age
-age = input("How old are you? ").strip()
+while True:
+    age = input("How old are you? ").strip()
 
+    if age.isdigit():
+        age = int(age)
+        break
+    else:
+        print("Please enter numbers only.")
 # Ask the for their favourite animal
 animal = input("What is your favourite animal? ").strip()
 
